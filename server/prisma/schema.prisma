@@ -12,7 +12,7 @@ model Game {
   title     String
   bannerUrl String
 
-  Ads Ad[]
+  ads Ad[]
 }
 
 model Ad {
